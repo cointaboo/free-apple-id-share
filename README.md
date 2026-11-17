@@ -124,4 +124,12 @@ A：看你用途。只用一次下载 → 共享号。要长期用、要订阅 C
 
 ---
 
+## 相关指南
+
+- [Shadowrocket 共享账号 · 小火箭下载与配置](https://github.com/cointaboo/shadowrocket-shared-account)
+- [日区 Apple ID 共享账号使用指南](https://github.com/cointaboo/jp-apple-id-share)
+- [Apple ID 被锁定 / 已停用怎么办](https://github.com/cointaboo/apple-id-locked-fix)
+
+---
+
 <sub>最后更新：2026-11-17 · 本仓库不接受账号投稿，也不提供明文账号</sub>
